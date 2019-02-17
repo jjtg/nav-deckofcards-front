@@ -5,6 +5,7 @@ npm install
 ```
 
 ### Compiles and hot-reloads for development
+Start api server on port `8080` before running. 
 ```
 npm run serve
 ```
