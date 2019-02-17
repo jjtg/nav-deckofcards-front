@@ -1,5 +1,4 @@
-# nav-deckofcards-front
-
+# Kodeoppgave for NAV IKT <br>Author: J. Julian Torp G.
 ## Project setup
 ```
 npm install
